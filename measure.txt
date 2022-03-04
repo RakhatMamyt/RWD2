@@ -1,0 +1,12 @@
+Typography :
+title: Lora - 3.375rem
+Subtitle : Ubuntu bold - 1rem
+Navigation: Ubuntu bold - 1rem
+
+colors :
+#F8F8F8 shade of white
+#707070 shade of Grey
+#1792D2 shade of Blue
+#143774 shade of Purple
+
+logo: https://i.etsystatic.com/26092352/r/il/44af7f/3490812715/il_794xN.3490812715_5rm6.jpg
